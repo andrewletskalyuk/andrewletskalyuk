@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewletskalyuk
-- 👀 I like write .net core projects and React
+- 👀 I like write .net code)
 - 🌱 I’m currently learning Next.js, Redis
 - 📫 How to reach me - simple.net.ua
 
